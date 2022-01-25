@@ -15,4 +15,4 @@ Olá, eu sou o Diogo Henrique 🖐️</br>
 </div><br/>
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.<br/><br/>
 
-📫 Contate-me:<br/><br/> [![Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/diogo-henrique-9175801b7) 
+📫 Contate-me:<br/><br/> [![Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-henrique-9175801b7) 
